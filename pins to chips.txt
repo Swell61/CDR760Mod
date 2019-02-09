@@ -1,0 +1,6 @@
+﻿* pin 2 mod chip goes to pin 27 tda1371 and pin 73 7170
+* pin 18 mod chip goes to pin 26 tda1371 and pin 54 7170
+* pin 17 mod chip goes to pin 24 tda1731 and pin 37 7170
+* pin 16 mod chip goes to pin 19 7210 and pin 3 7241. Dont think its used
+* pin 14 mod chip goes to Vcc
+* pin 5 mod chip goes to ground
