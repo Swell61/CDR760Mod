@@ -1,4 +1,4 @@
-Please head over to the Wiki to find out more infomration about this project
+Please head over to the Wiki to find out more information about this project
 
 [About this project](https://gitlab.bingbong.epac.to/Samwell61/cdr760mod/wikis/About-this-project)
 
